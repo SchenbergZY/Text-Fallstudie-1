@@ -175,3 +175,8 @@ widgetsnbextension==4.0.10
 zipp==3.18.0
 jupyterquiz==2.8.*
 setuptools<78
+
+# apa 
+teachbooks==0.2.4
+# sphinx-apa-references == 1.0.1, now goes to v2
+git+https://github.com/SchenbergZY/Sphinx-APA-References.git
