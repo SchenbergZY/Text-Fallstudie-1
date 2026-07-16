@@ -103,7 +103,7 @@ Um Muster zu erkennen, ist es sinnvoll die erhobenen Häufigkeiten in größere 
 
 `````{admonition} Durchschnitt von relativen Häufigkeiten
 :class: caution
-Eine zweite Möglichkeit, die Häufigkeiten über einen Zeitraum zusammenzufassen, bestünde darin, den Durchschnitt der Häufigkeiten zu nehmen. Diese Methode ist davon von schwankenden Textlängen an verschiedenen Tagen abhängig. Eine Folge davon wäre, dass Tage mit kurzen Texten und einer hohen Anzahl an Grippewörtern den Durchschnitt stark in die Höhe ziehen würden, obwohl die absolute Anzahl an Wörtern geringer ist als an Tagen, für die längere Texte vorliegen. 
+Eine zweite Möglichkeit, die Häufigkeiten über einen Zeitraum zusammenzufassen, bestünde darin, den Durchschnitt der Häufigkeiten zu nehmen. Diese Methode ist von schwankenden Textlängen an verschiedenen Tagen abhängig. Eine Folge davon wäre, dass Tage mit kurzen Texten und einer hohen Anzahl an Grippewörtern den Durchschnitt stark in die Höhe ziehen würden, obwohl die absolute Anzahl an Wörtern geringer ist als an Tagen, für die längere Texte vorliegen. 
 
 ```{table}
 :name: "Beispiel: Methoden des Zusammenfügens"
@@ -140,7 +140,7 @@ Die Häufigkeiten über Zeit ließen sich auch in einem Balkendiagramm darstelle
 ## Keyword in Context (KWIC) 
 
 ### Was ist KWIC?
-Die Keyword in Context (KWIC)-Darstellung basiert auf der Suche eines oder mehrerer Wörter oder einer Phrase innerhalb eines Korpus und zeigt den gesuchten Term sowie den textuellen Kontext des Terms an. Es kann dabei definiert werden, wie groß der Kontext ist (z. B. 5 Wörter, ein Satz, etc.). Wie in [der Tabelle](tab-kwic) zu sehen ist, hat die Darstellung die Form einer Tabelle mit drei Spalten: der Kontext auf der linken Seite, der gesuchte Term (meist farblich hervorgehoben), der Kontext auf der rechten Seite. Zusätzlich können noch Metadaten gegeben sein, wie die Quelle (wenn in einem Korpus gesucht wird) oder das Datum.
+Die Keyword in Context (KWIC)-Darstellung basiert auf der Suche eines oder mehrerer Wörter oder einer Phrase innerhalb eines Korpus und zeigt den gesuchten Term sowie den textuellen Kontext des Terms an. Es kann dabei definiert werden, wie groß der Kontext ist (z. B. 5 Wörter, ein Satz, etc.). Wie in [der Tabelle](tab-kwic) zu sehen ist, hat die Darstellung die Form einer Tabelle mit drei Spalten: der Kontext auf der linken Seite, der gesuchte Term (meist farblich hervorgehoben), der Kontext auf der rechten Seite. Zusätzlich können noch Metadaten gegeben sein wie die Quelle (wenn in einem Korpus gesucht wird) oder das Datum.
 
 ```{table}
 :name: tab-kwic
