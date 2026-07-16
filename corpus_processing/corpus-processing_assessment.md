@@ -447,7 +447,7 @@ multiple_choice_4 = [{
         {
             "answer": "XML, weil es von den meisten Textanalysewerkzeugen unterstützt wird",
             "correct": False,
-            "feedback": """× Nicht korrekt. XML ist in den Digital Humanities zwar ein Standardformat, um Annotationen zu speichern, allerdings sind nicht die meisten Analysewerkzeuge auf das Format ausgelegt. XML eignet sich für die Speicherung von komplexeren Annotationen oder Textauszeichnungen besser."""
+            "feedback": """× Nicht korrekt. XML ist in den Digital Humanities zwar ein Standardformat, um Annotationen zu speichern, allerdings sind die meisten Analysewerkzeuge nicht auf das Format ausgelegt. XML eignet sich für die Speicherung von komplexeren Annotationen oder Textauszeichnungen besser."""
         }
     ]
 }]
