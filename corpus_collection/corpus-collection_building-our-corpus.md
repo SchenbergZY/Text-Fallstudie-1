@@ -20,7 +20,7 @@ Als Untersuchungsgegenstand wurde [oben](research-question_operationalization) �
 Bei unseren Recherchen haben wir als mögliche Quelle für die Korpuselemente das <a href="https://zefys.staatsbibliothek-berlin.de/" class="external-link" target="_blank">„ZEitungsinFormationssYStem der Staatsbibliothek zu Berlin”</a>, kurz „ZEFYS”, identifiziert, das zu zahlreichen Berliner Tageszeitungen unseres Untersuchungszeitraums Bilddigitalisate (u.a. im PDF-Format) vorhält. Eine von uns durchgeführte Stichprobe hat dabei ergeben, dass das PDF einer Ausgabe im Durchschnitt etwa 74 MB groß ist. Eine erste Grobschätzung für ein Korpus ergab damit eine Größe von
 
 ```
-24.570 x 75 MB = 1.818,18 GB
+24.570 x 74 MB = 1.818,18 GB
 ```
 mithin fast 2 Terabyte. Ein solches Korpus ist kaum pragmatisch zu handhaben. Aus diesem Grund kann unser Korpus also kein vollständiges sein; stattdessen haben wir uns für ein tendenziell balanciertes Korpus entschieden.
 

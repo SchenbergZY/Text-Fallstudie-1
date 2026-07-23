@@ -10,7 +10,7 @@ Skorinkin, D., Sluyter-Gäthje, H. & Trilcke, P. (2024). _Quantitative Analyse d
 
 `````
 
-Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde. Sie können Sie zudem als [BibTeX-Datei](../references.bib) (`.bib`) herunterladen, um Sie bspw. in Ihrem Literaturverwaltungsprogramm zu importieren.
+Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde. Sie können sie zudem als [BibTeX-Datei](../references.bib) (`.bib`) herunterladen, um sie bspw. in Ihrem Literaturverwaltungsprogramm zu importieren.
 
 ```{bibliography}
 :list: bullet

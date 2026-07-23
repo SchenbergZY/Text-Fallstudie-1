@@ -31,7 +31,7 @@ Eine gezielt nach bestimmten Kriterien zusammengestellte Auswahl, die alle wesen
 
 - **Voraussetzung:** Klar definierte Kriterien und gezielte Auswahl, um statistische Korrelationen zu vermeiden.
 - **Anwendung:** Ideal für Studien, die Unterschiede und Entwicklungen innerhalb einer Kategorie analysieren wollen, z.B. die Entwicklung literarischer Untergattungen des Romans.
-- **Beispiel:** Eine Sammlung von Romanen aus verschiedenen Jahrzehnten und Untergattungen, mit breiter Variation hinsichtlich Autoren, Erzählperspektiven und Handlungsorten, Untergattungen.
+- **Beispiel:** Eine Sammlung von Romanen aus verschiedenen Jahrzehnten und Untergattungen, mit breiter Variation hinsichtlich Autoren, Erzählperspektiven und Handlungsorten.
 	
 ## Opportunistisches Korpus
 Eine Sammlung, deren Auswahl nur durch die Verfügbarkeit von Daten geleitet wird.
@@ -46,7 +46,7 @@ Mit welcher Strategie und nach welchen Kriterien ein Korpus aufgebaut wird, ents
 
 `````{admonition} Weiterführende Links
 :class: seealso
-- <a href="https://fortext.net/routinen/methoden/korpusbildung" class="external-link" target="_blank">forText-Artikel „Korpusbildung”</a>, mit Fokus auf literaturwissenschafliche Korpora. {cite:p}`fortext-2020-id-203`
+- <a href="https://fortext.net/routinen/methoden/korpusbildung" class="external-link" target="_blank">forText-Artikel „Korpusbildung”</a>, mit Fokus auf literaturwissenschaftliche Korpora. {cite:p}`fortext-2020-id-203`
 `````
 
 ## Bibliographie

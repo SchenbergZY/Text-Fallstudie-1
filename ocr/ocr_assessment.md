@@ -938,7 +938,7 @@ Bedingt geeignet, weil:
 - Suchfunktionen tolerieren gewisse Fehler
 
 **Empfehlung:**
-- Einsatz von unscharfen Suche (Fuzzy Search), in der die Daten nicht genau mit dem Suchbegriff übereinstimmen müssen
+- Einsatz von unscharfer Suche (Fuzzy Search), in der die Daten nicht genau mit dem Suchbegriff übereinstimmen müssen
 - Berücksichtigung häufiger OCR-Fehler
 - Mögliche manuelle Nachkorrektur wichtiger Passagen
 ````

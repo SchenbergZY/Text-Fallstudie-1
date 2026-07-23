@@ -397,7 +397,7 @@ multiple_choice_3 = [{
         {
             "answer": "Um die Verarbeitungsgeschwindigkeit zu erhöhen",
             "correct": True,
-            "feedback": """✓ Richtig! Im Notebook steht explizit: "Es werden einige Analysekomponent wie z. B. das Aufteilen des Texts in Sätze (sentencizer) oder die Named Entity Recognition (ner) ausgeschlossen, da diese für die Tokenisierung und die Lemmatisierung nicht benötigt werden. Der Auschluss der Komponentnen erhöht die Annotationsgeschwindikgeit." """
+            "feedback": """✓ Richtig! Im Notebook steht explizit: "Es werden einige Analysekomponenten wie z. B. das Aufteilen des Texts in Sätze (sentencizer) oder die Named Entity Recognition (ner) ausgeschlossen, da diese für die Tokenisierung und die Lemmatisierung nicht benötigt werden. Der Ausschluss der Komponenten erhöht die Annotationsgeschwindigkeit." """
         },
         {
             "answer": "Um mehr Speicherplatz für die Ergebnisse zu haben",
@@ -447,7 +447,7 @@ multiple_choice_4 = [{
         {
             "answer": "XML, weil es von den meisten Textanalysewerkzeugen unterstützt wird",
             "correct": False,
-            "feedback": """× Nicht korrekt. XML ist in den Digital Humanities zwar ein Standardformat, um Annotationen zu speichern, allerdings sind nicht die meisten Analysewerkzeuge auf das Format ausgelegt. XML eignet sich für die Speicherung von komplexeren Annotationen oder Textauszeichnungen besser."""
+            "feedback": """× Nicht korrekt. XML ist in den Digital Humanities zwar ein Standardformat, um Annotationen zu speichern, allerdings sind die meisten Analysewerkzeuge nicht auf das Format ausgelegt. XML eignet sich für die Speicherung von komplexeren Annotationen oder Textauszeichnungen besser."""
         }
     ]
 }]

@@ -149,7 +149,7 @@ statements = [
                 "correct": False,
                 "feedback": """× Nicht optimal. Obwohl XML/TEI auch Annotationen unterstützt:
                     - Komplexerer Aufbau als nötig für einfache tabellarische Daten
-                    - Weniger effizient für große Mengen einfach strukturierter Annotatione"""
+                    - Weniger effizient für große Mengen einfach strukturierter Annotationen"""
             },
             {
                 "answer": "Plain Text",

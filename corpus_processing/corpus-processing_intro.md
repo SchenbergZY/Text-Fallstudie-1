@@ -38,7 +38,7 @@ Für die Ausführung einer digitalen Analyse, in diesem Fall die Analyse von Wor
 ---
 name: flussdiagramm-corpus-processing
 ---
-Flussdiagramm der Fallstudie, das aktuelle Arbeitspaket ist hevorgehoben.
+Flussdiagramm der Fallstudie, das aktuelle Arbeitspaket ist hervorgehoben.
 ```
 
 Die im Korpus enthaltenen Textdateien werden jetzt mit linguistischen Informationen angereichert. Zuerst wird konzeptionell in die Methoden der Anreicherung eingeführt (Tokenisierung und Lemmatisierung), dann wird kurz darauf eingegangen, welche Möglichkeiten es in Python für die Anreicherung gibt. Im nächsten Schritt wird gezeigt, wie mit Hilfe von spaCy das Zeitungskorpus annotiert werden kann. Zum Schluss wird ein Resümee gezogen.
