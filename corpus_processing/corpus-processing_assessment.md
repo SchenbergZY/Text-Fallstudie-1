@@ -397,7 +397,7 @@ multiple_choice_3 = [{
         {
             "answer": "Um die Verarbeitungsgeschwindigkeit zu erhöhen",
             "correct": True,
-            "feedback": """✓ Richtig! Im Notebook steht explizit: "Es werden einige Analysekomponent wie z. B. das Aufteilen des Texts in Sätze (sentencizer) oder die Named Entity Recognition (ner) ausgeschlossen, da diese für die Tokenisierung und die Lemmatisierung nicht benötigt werden. Der Auschluss der Komponentnen erhöht die Annotationsgeschwindikgeit." """
+            "feedback": """✓ Richtig! Im Notebook steht explizit: "Es werden einige Analysekomponenten wie z. B. das Aufteilen des Texts in Sätze (sentencizer) oder die Named Entity Recognition (ner) ausgeschlossen, da diese für die Tokenisierung und die Lemmatisierung nicht benötigt werden. Der Ausschluss der Komponenten erhöht die Annotationsgeschwindigkeit." """
         },
         {
             "answer": "Um mehr Speicherplatz für die Ergebnisse zu haben",

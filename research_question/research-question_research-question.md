@@ -1,6 +1,6 @@
 (research-question_research-question)=
 # Fragestellung
-Dass Pandemien ihre je eigenen Verlaufsprofile entwickeln, konnten Zeitgenoss:innen vor wenigen Jahren am Verlauf der COVID19-Pandemie beobachten. Die Rede von den „Wellen” der Corona-Pandemie wurde rasch sprichwörtlich. Auch während der Spanischen Grippe sprach man von „Wellen” bzw. „Waves”, und diese spezifische Verlaufsform wurde auch graphisch dokumentiert (siehe Fig. 2.2).
+Dass Pandemien ihre je eigenen Verlaufsprofile entwickeln, konnten Zeitgenoss:innen vor wenigen Jahren am Verlauf der COVID-19-Pandemie beobachten. Die Rede von den „Wellen” der Corona-Pandemie wurde rasch sprichwörtlich. Auch während der Spanischen Grippe sprach man von „Wellen” bzw. „Waves”, und diese spezifische Verlaufsform wurde auch graphisch dokumentiert (siehe Fig. 2.2).
 
 ```{figure} ../assets/images/Plague-versus-Spanish-Flu.jpg
 ---

@@ -12,7 +12,7 @@ Entlang dieser beiden Fragen kommen wir zur folgenden Operationalisierung:
 
 `````{admonition} Operationalisierung
 :class: hinweis
-Als öffentliche Aufmerksamkeit im Berliner Raum sollen in unserer Fallstudie die Texte in Berliner Tageszeitungen gelten. Wir messen diese öffentliche Aufmerksamkeit, indem wir die Häufigkeit von Wörtern ermitteln. Eine besonders hohe öffentliche Aufmerksamkeit für die spanische Grippe in einem bestimmten Zeitraum läge demnach dann vor, wenn wir in den Zeitungen für diesen Zeitraum besonders viele Wörter nachweisen können, die direkt oder indirekt auf die spanische Grippe verweisen.
+Als öffentliche Aufmerksamkeit im Berliner Raum sollen in unserer Fallstudie die Texte in Berliner Tageszeitungen gelten. Wir messen diese öffentliche Aufmerksamkeit, indem wir die Häufigkeit von Wörtern ermitteln. Eine besonders hohe öffentliche Aufmerksamkeit für die Spanische Grippe in einem bestimmten Zeitraum läge demnach dann vor, wenn wir in den Zeitungen für diesen Zeitraum besonders viele Wörter nachweisen können, die direkt oder indirekt auf die Spanische Grippe verweisen.
 `````
 
 Diese Operationalisierung ist, wie jede Operationalisierung in den Digital Humanities, diskutabel. Sie folgt dabei einem quantitativen Methodenparadigma. Und sie wählt mit der Worthäufigkeit einen einfachen Indikator für das zu messende Phänomen. Die Operationalisierung wird zudem weitere Einschränkungen erfahren müssen, etwa was das Korpus der Analysen betrifft, das mit der Formulierung „Texte in Berliner Tageszeitungen” derzeit sowohl zu unscharf angegeben ist als auch viel zu groß wäre.

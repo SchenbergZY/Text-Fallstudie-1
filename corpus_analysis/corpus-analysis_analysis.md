@@ -31,7 +31,7 @@ Du bist eine Digital Humanities-Forscherin mit Expertise im Bereich der Computer
 
 Bitte erstelle ein semantisches Feld zum Thema „Grippe“. Die Sprache ist deutsch. Bedingungen für die Wörter des semantischen Feldes sind:
 * die Wörter sollen Substantive sein;
-* Komposita sind erlaubt;:
+* Komposita sind erlaubt;
 * die Wörter sollen sich am historischen Sprachgebrauch der Jahre 1918 und 1919 orientieren;
 * die Wörter sollen spezifisch für den Kontext „Grippe“ sein;
 * die Wörter sollen nicht mehrdeutig sein, also nach Möglichkeit nicht in anderen semantischen Kontext vorkommen;
@@ -43,11 +43,11 @@ Influenza, Grippe, Grippeepidemie, Grippewelle, Grippekranke, Grippepandemie, Lu
 ## Häufigkeit als Analysemethode 
 
 ### Warum die Häufigkeit analysieren?
-Die Analyse von Worthäufigkeiten ist sowohl in der Korpuslinguistik als auch in den Digital Humanities weit verbreitet. Für die Analyse von Inhaltswörtern (Nomen, Verben, Adjektive, Adverben) wird angenommen, dass ein hohes Vorkommen mit der Wichtigkeit der Wörter im Text korreliert. Besonders bei einer vergleichenden Analyse (etwa von zwei Zeitungen oder einem Thema über Zeit) ist die Häufigkeitsanalyse sinnvoll, da der Vergleich so quantisierbar wird. 
+Die Analyse von Worthäufigkeiten ist sowohl in der Korpuslinguistik als auch in den Digital Humanities weit verbreitet. Für die Analyse von Inhaltswörtern (Nomen, Verben, Adjektive, Adverbien) wird angenommen, dass ein hohes Vorkommen mit der Wichtigkeit der Wörter im Text korreliert. Besonders bei einer vergleichenden Analyse (etwa von zwei Zeitungen oder einem Thema über Zeit) ist die Häufigkeitsanalyse sinnvoll, da der Vergleich so quantisierbar wird. 
 
 ### Häufigkeit von Grippe
 Um die Wichtigkeit eines Themenfelds wie der Spanischen Grippe zu untersuchen, bietet es sich an, nicht nur das Vorkommen eines einzelnen Wortes wie „Grippe“ zu untersuchen, sondern andere, mit Grippe im Zusammenhang stehende Wörter zu sammeln. Die Wörter werden in der Grundform angegeben, sodass sie mit den Lemmata im Text verglichen werden können.
-Für jedes Wort wird dann die Häufigkeit errechnet, diese nennt sich **absolute Häufigkeit**. Die absoluten Häufigkeiten werden addiert, sodass sich pro Text eine Zahl ergibt, die die Summe aller Häufigkeiten der Grippenbezogenen Wörter angibt.
+Für jedes Wort wird dann die Häufigkeit errechnet, diese nennt sich **absolute Häufigkeit**. Die absoluten Häufigkeiten werden addiert, sodass sich pro Text eine Zahl ergibt, die die Summe aller Häufigkeiten der grippenbezogenen Wörter angibt.
 
 `````{admonition} Beispiel
 :class: hinweis
@@ -69,14 +69,14 @@ Für jedes Wort wird dann die Häufigkeit errechnet, diese nennt sich **absolute
 `````
 
 ### Vergleichbarkeit von Häufigkeiten
-Für die Vergleichbarkeit von Worthäufigkeiten in Texten ist wichtig, dass die Texte auch ansonsten vergleichbar sind. Stammen die Texte z. B. aus unterschiedlichen Zeiträumen müssten ggf. zeitspezifische semantische Felder erstellt werden, um für den Sprachwandel Rechnung zu tragen. Auch sollten die Texte eine ähnliche Länge haben, sodass eine erhöhte Häufigkeit tatsächlich auf eine erhöhte Wichtigkeit zurückgeführt werden kann.
+Für die Vergleichbarkeit von Worthäufigkeiten in Texten ist wichtig, dass die Texte auch ansonsten vergleichbar sind. Stammen die Texte z. B. aus unterschiedlichen Zeiträumen müssten ggf. zeitspezifische semantische Felder erstellt werden, um dem Sprachwandel Rechnung zu tragen. Auch sollten die Texte eine ähnliche Länge haben, sodass eine erhöhte Häufigkeit tatsächlich auf eine erhöhte Wichtigkeit zurückgeführt werden kann.
 Wenn Texte verschieden lang sind, sollten die Häufigkeiten **normalisiert** werden, das heißt sie werden in Bezug zur Textlänge gesetzt. Dafür wird die absolute Häufigkeit durch die Textlänge dividiert, daraus ergibt sich die **relative Frequenz**. Die relative Frequenz des semantischen Felds „Grippe“ kann als Anteil der Grippewörter am Gesamttext gesehen werden. 
 
 `````{admonition} Beispiel
 :class: hinweis
-Der Beispieltext besteht aus insgesamt 69 Wörter, davon sind 4 Wörter in dem semantischen Feld „Grippe“ vorhanden. Daraus ergibt sich folgende Rechnung:
+Der Beispieltext besteht aus insgesamt 69 Wörtern, davon sind 4 Wörter in dem semantischen Feld „Grippe“ vorhanden. Daraus ergibt sich folgende Rechnung:
 
-$ f = {4 \over 69} = {0.05797101449} $$.
+$ f = {4 \over 69} = {0.05797101449} $.
 
 Das heißt: Jedes zwanzigste Wort im Text steht im Zusammenhang mit der Spanischen Grippe. 
 `````
